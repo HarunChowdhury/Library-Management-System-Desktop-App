@@ -1,0 +1,17 @@
+C:\Users\acer\Desktop\Harun\ProductInfoApp\ProductInfoApp\bin\Debug\ProductInfoApp.exe.config
+C:\Users\acer\Desktop\Harun\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.csprojResolveAssemblyReference.cache
+C:\Users\acer\Desktop\Harun\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.Form1.resources
+C:\Users\acer\Desktop\Harun\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.Properties.Resources.resources
+C:\Users\acer\Desktop\Harun\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.csproj.GenerateResource.Cache
+C:\Users\acer\Desktop\Harun\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.ProductUI.resources
+C:\Users\Chowdhury\Desktop\ProductInfoApp\ProductInfoApp\bin\Debug\ProductInfoApp.exe.config
+C:\Users\Chowdhury\Desktop\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.ProductUI.resources
+C:\Users\Chowdhury\Desktop\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.Properties.Resources.resources
+C:\Users\Chowdhury\Desktop\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.csproj.GenerateResource.Cache
+C:\Users\Chowdhury\Desktop\ProductInfoApp\ProductInfoApp\bin\Debug\ProductInfoApp.exe
+C:\Users\Chowdhury\Desktop\ProductInfoApp\ProductInfoApp\bin\Debug\ProductInfoApp.pdb
+C:\Users\Chowdhury\Desktop\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.exe
+C:\Users\Chowdhury\Desktop\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.pdb
+C:\Users\HARUN\Desktop\PRO\Exam Database,ProductInfoApp\ProductInfoApp\ProductInfoApp\bin\Debug\ProductInfoApp.exe.config
+C:\Users\HARUN\Desktop\PRO\Exam Database,ProductInfoApp\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.exe
+C:\Users\HARUN\Desktop\PRO\Exam Database,ProductInfoApp\ProductInfoApp\ProductInfoApp\obj\Debug\ProductInfoApp.pdb
